@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+# HELLO STRANGER
+
+![HELLO STRANGER](./client/src/components/images/hellostranger-04.jpg "screenshot of main page of the application")
+
+# Table of contents
+
+- [Team](#team)
+- [Technology](#technology)
+- [Deployed App](#deployed-app)
+- [Repository](#repository)
+- [Contributing](#contributing)
+- [Description](#description)
+- [Screenshot](#screenshot)
+- [License](#license)
+- [END](#end)
+
+# Team
+
+- Project Eagle Team Members:
+  - John Nelson - https://github.com/fjnelson
+  - AP - https://github.com/aashpaash
+  - Helen Evans - https://github.com/HelenLEvans
+  - Peter Ataras - https://github.com/poprit77
+  - Davis Genthner - https://github.com/TheTrueGameBreaker
+  - Chris Ridder - https://github.com/cridder
+
+# Technology
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!--
+![License Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![License Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![License Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![License Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ -->
 
-In the project directory, you can run:
+![ReactJs](https://img.shields.io/badge/-ReactJs-orange)
+![HTML](https://img.shields.io/badge/-HTML-orange)
+![CSS](https://img.shields.io/badge/-CSS-orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
+![Node](https://img.shields.io/badge/-Node-orange)
+![NPM](https://img.shields.io/badge/-NPM-orange)
+![MERN](https://img.shields.io/badge/-MERN-orange)
+![STRIPE](https://img.shields.io/badge/-STRIPE-orange)
+![SEMANTIC](https://img.shields.io/badge/-SEMANTIC-orange)
+![BCRYPT](https://img.shields.io/badge/-BCRYPT-orange)
+![EXPRESS](https://img.shields.io/badge/-EXPRESS-orange)
+![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-orange)
+![JSONWEBTOKEN](https://img.shields.io/badge/-JSONWEBTOKEN-orange)
+![MONGOOSE](https://img.shields.io/badge/-MONGOOSE-orange)
 
-### `npm start`
+# Deployed App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [ ] ADD DEPLOYED APP LINK
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Repository
 
-### `npm test`
+[HELLO STRANGER][1]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Contributing
 
-### `npm run build`
+Fork [HELLO STRANGER][1] and submit a pull request.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Description
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [ ] ADD A DESCRIPTION
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Screenshot
 
-### `npm run eject`
+- [ ] ADD A HOME PAGE SCREEN SHOT
+- [ ] ADD A CONTENT PAGE SCREEN SHOT
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![License Badge](https://img.shields.io/badge/license%20-ISC-orange)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ISC License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Copyright (c) 2023
 
-## Learn More
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# END
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[1]: (https://github.com/fjnelson/ludicrous-speed)
