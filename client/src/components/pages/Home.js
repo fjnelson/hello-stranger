@@ -17,7 +17,7 @@ export default function Home() {
           />
           <p style={{ fontSize: "2em", color: "#FFC857", textAlign: "center" }}>
             “If you see someone without a smile, give them one of yours.” -
-            Dolly Parton - Helen Evans
+            Dolly Parton
           </p>
         </div>
     {/*<div class="two ui buttons">
